@@ -1,7 +1,7 @@
 # Flutter-Social-Media-
 Get the best UI UX flutter UI UX design templates - Flutter App UI Design Template
 
-<img src="/BoltUIX/Flutter-Social-Media-design/blob/main/%23assets/1.jpg?raw=true" alt="1.jpg">
+<img src="https://raw.githubusercontent.com/BoltUIX/Flutter-Social-Media-design/main/%23assets/1.jpg" alt="1.jpg">
 
 Ref video : https://youtube.com/shorts/TPXJ6--izxg
 
